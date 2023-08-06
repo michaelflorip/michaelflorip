@@ -7,7 +7,7 @@
   
 ✏️ My technical coursework has built a strong foundation in data structures, analysis, and machine learning techniques.  
   
-🤔 Currently, I am exploring supervised learning techniques through applications to real-world data.  
+🤔 Currently, I am exploring supervised machine learning techniques and applications to real-world data.  
   
 📫 Feel free to email me at michaelflorip@berkeley.edu with any questions.
 
