@@ -1,5 +1,5 @@
-## Hi, I'm Michael! 👋
-### I am a data science enthusiast who enjoys 📊 tackling real-world issues with data-driven solutions, 📈 ~~gambling~~ investing my money in the stock market, and 🏀 playing team sports.
+### Hi, I'm Michael! 👋
+I am a data science enthusiast who enjoys 📊 tackling real-world issues with data-driven solutions, 📈 ~~gambling~~ investing my money in the stock market, and 🏀 playing team sports.
 
 
 
