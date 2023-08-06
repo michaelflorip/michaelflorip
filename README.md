@@ -1,4 +1,4 @@
-### Hi, I'm Michael! 
+### 😄 Hi, I'm Michael! 
 ### 👋 I am a data science enthusiast who enjoys 📊 tackling real-world issues with data-driven solutions, 📈 ~~gambling~~ investing my money in the stock market, and 🏀 playing team sports.
 
 🐻 I am a student at the University of California, Berkeley, where I am majoring in data science with an emphasis in Economics.  
