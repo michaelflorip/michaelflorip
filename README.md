@@ -3,8 +3,8 @@
 
 🐻 I am a student at the University of California, Berkeley, where I am majoring in data science with an emphasis in Economics.  
 🤝 I believe harnessing the power of data is essential in the effort to creating innovative solutions for the problems in our communities.  
-✏️ My technical coursework has built a strong foundation in data structures, analysis, and machine learning techniques.
-🤔 Currently, I am exploring supervised learning techniques through applications to real-world data.
+✏️ My technical coursework has built a strong foundation in data structures, analysis, and machine learning techniques.  
+🤔 Currently, I am exploring supervised learning techniques through applications to real-world data.  
 📫 Feel free to email me at michaelflorip@berkeley.edu with any questions.
 
 <!--
