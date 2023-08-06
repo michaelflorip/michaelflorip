@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Michael! 👋
+### I am a data science enthusiast who enjoys 📊 tackling real-world issues with data-driven solutions, 📈 ~~gambling~~ investing my money in the stock market, and 🏀 playing team sports.
+
+
 
 <!--
 **michaelflorip/michaelflorip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
