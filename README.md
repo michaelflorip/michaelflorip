@@ -1,12 +1,10 @@
 ### 😄 Hi, I'm Michael! 
 👋 I am a data science enthusiast who enjoys 📊tackling real-world problems with data-driven solutions, 📈learning about personal real estate investing, and 🏀playing team sports.
 
-🐻 I am an undergraduate at the University of California, Berkeley, where I am majoring in Data Science with an emphasis in Economics.  
+🐻 I majored in Data Science at the University of California, Berkeley.  
   
 🤝 I believe harnessing the power of data is essential in the effort to creating innovative solutions for the problems in our communities.  
-  
-✏️ My technical coursework has built a strong foundation in machine learning techniques for business applications as well as in-depth analysis for real-world outcomes.  
-    
+      
 📫 Feel free to email me at michaelflorip@berkeley.edu with any questions.
 
 <!--
